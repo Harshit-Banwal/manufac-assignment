@@ -45,10 +45,10 @@ Here are some screenshots of the application:
 
 ### Yearly Crop Production Table
 
-![1. ](src/assets/images/Screenshot1.jpg)
-![2. ](src/assets/images/Screenshot2.jpg)
-![3. ](src/assets/images/Screenshot3.jpg)
+![1. ](https://github.com/Harshit-Banwal/manufac-assignment/blob/main/src/assets/images/Screenshot%201.jpg?raw=true)
+![2. ](https://github.com/Harshit-Banwal/manufac-assignment/blob/main/src/assets/images/Screenshot%202.jpg?raw=true)
+![3. ](https://github.com/Harshit-Banwal/manufac-assignment/blob/main/src/assets/images/Screenshot%203.jpg?raw=true)
 
 ### Crop Statistics Table
 
-![4. ](src/assets/images/Screenshot4.jpg)
+![4. ](https://github.com/Harshit-Banwal/manufac-assignment/blob/main/src/assets/images/Screenshot%204.jpg?raw=true)
