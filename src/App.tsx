@@ -1,7 +1,11 @@
-import "@mantine/core/styles.css";
-import { MantineProvider } from "@mantine/core";
-import { theme } from "./theme";
+import '@mantine/core/styles.css';
+import { MantineProvider } from '@mantine/core';
+import DataTable from './components/DataTable';
 
 export default function App() {
-  return <MantineProvider theme={theme}>App</MantineProvider>;
+  return (
+    <MantineProvider>
+      <DataTable />
+    </MantineProvider>
+  );
 }
