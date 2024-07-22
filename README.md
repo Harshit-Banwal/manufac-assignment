@@ -45,10 +45,10 @@ Here are some screenshots of the application:
 
 ### Yearly Crop Production Table
 
-![1. ](assets/images/Screenshot1.jpg)
-![2. ](assets/images/Screenshot2.jpg)
-![3. ](assets/images/Screenshot3.jpg)
+![1. ](src/assets/images/Screenshot1.jpg)
+![2. ](src/assets/images/Screenshot2.jpg)
+![3. ](src/assets/images/Screenshot3.jpg)
 
 ### Crop Statistics Table
 
-![4. ](assets/images/Screenshot4.jpg)
+![4. ](src/assets/images/Screenshot4.jpg)
